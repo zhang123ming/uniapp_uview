@@ -6,10 +6,273 @@
 		{
 			"path": "pages/index/index",
 			"style": {
-				"navigationBarTitleText": "uni-app"
+				"navigationBarTitleText": "首页"
 			}
+		}, {
+			"path": "pages/color/color",
+			"style": {}
+		}, {
+			"path": "pages/icon/icon",
+			"style": {}
+		}, {
+			"path": "pages/button/button",
+			"style": {}
+		}, {
+			"path": "pages/layout/layout",
+			"style": {}
+		}, {
+			"path": "pages/cell/cell",
+			"style": {}
 		}
-	],
+		, {
+			"path": "pages/badge/badge",
+			"style": {}
+		}
+	    ,{
+            "path" : "pages/tag/tag",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/input/input",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/form/form",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/calendar/calendar",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/select/select",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/keyboard/keyboard",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/picker/picker",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/rate/rate",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/search/search",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/numberbox/numberbox",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/upload/upload",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/verificationcode/verificationcode",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/field/field",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/checkbox/checkbox",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/radio/radio",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/switch/switch",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/slider/slider",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/circleprogress/circleprogress",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/lineprogress/lineprogress",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/table/table",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/countdown/countdown",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/countto/countto",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/actionsheet/actionsheet",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/alerttips/alerttips",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/toast/toast",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/noticebar/noticebar",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/toptips/toptips",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/collapse/collapse",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/popup/popup",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/swipeaction/swipeaction",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/modal/modal",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/fullscreen/fullscreen",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/line/line",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/card/card",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/mask/mask",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/nonetwork/nonetwork",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/grid/grid",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/swiper/swiper",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/timeline/timeline",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/skeleton/skeleton",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/sticky/sticky",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/waterfall/waterfall",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/divider/divider",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/backtop/backtop",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/navbar/navbar",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/tabs/tabs",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/tabsswiper/tabsswiper",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/subsection/subsection",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/indexlist/indexlist",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/steps/steps",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/empty/empty",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/link/link",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/section/section",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/messageinput/messageinput",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/avatarcropper/avatarcropper",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/loadmore/loadmore",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/readmore/readmore",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/lazyload/lazyload",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/gap/gap",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/avatar/avatar",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/loading/loading",
+            "style" : {}
+        }
+    ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
