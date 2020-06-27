@@ -1,6 +1,9 @@
 <script>
 export default {
-	onLaunch: function() {},
+
+	onLaunch: function() {
+		
+	},
 	onShow: function() {
 		console.log('App Show');
 	},

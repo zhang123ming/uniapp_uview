@@ -86,7 +86,9 @@ export default {
 			]
 		};
 	},
-	onLoad() {},
+	onLoad() {
+		
+	},
 	methods: {
 		routerLink(item) {
 			uni.navigateTo({
