@@ -17,11 +17,10 @@ export default {
 	},
 	methods: {
 		change(e) {
-			const self=this;
+			const self = this;
 			if (e) {
 				self.isTrue = true;
 				setTimeout(function() {
-					
 					self.isTrue = false;
 				}, 2000);
 			} else {
