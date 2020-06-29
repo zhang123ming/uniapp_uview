@@ -1,16 +1,17 @@
 <template>
-	<view>{{ name }}</view>
+	<view class="box">
+		<u-navbar back-text="返回" title="自定义导航栏" :background="bgc"></u-navbar>
+	</view>
 </template>
 
 <script>
 export default {
 	data() {
 		return {
-			name: ''
+		bgc: '#001f3f'
 		};
 	},
 	onLoad(e) {
-		this.name = e.option;
 		uni.setNavigationBarTitle({
 			title: e.option
 		});

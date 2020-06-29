@@ -1,21 +1,27 @@
 <template>
-	<view>{{ name }}</view>
+	<view class="toast"></view>
 </template>
 
 <script>
 export default {
 	data() {
-		return {
-			name: ''
-		};
+		return {};
 	},
 	onLoad(e) {
-		this.name = e.option;
+	
 		uni.setNavigationBarTitle({
 			title: e.option
 		});
+	},
+	methods: {
+	
 	}
 };
 </script>
 
-<style lang="scss"></style>
+<style lang="scss">
+.toast {
+	width: 100%;
+	height: 100%;
+}
+</style>

@@ -1,19 +1,42 @@
 <template>
-	<view>{{ name }}</view>
+	<view>
+		<u-subsection :list="list" :current="current" :animation="true" @change="change"></u-subsection>
+	</view>
 </template>
 
 <script>
 export default {
 	data() {
 		return {
-			name: ''
+		list: [
+							{
+								name: '待发货'
+							}, 
+							{
+								name: '待付款'
+							}, 
+							{
+								name: '待评价'
+							},{
+								name:"已完成"
+							}
+						],
+						current: 1
 		};
 	},
 	onLoad(e) {
-		this.name = e.option;
+	
 		uni.setNavigationBarTitle({
 			title: e.option
 		});
+	},
+	methods:{
+		change(e){
+			uni.showToast({
+				title:e.toString(),
+				icon:"none"
+			})
+		}
 	}
 };
 </script>
