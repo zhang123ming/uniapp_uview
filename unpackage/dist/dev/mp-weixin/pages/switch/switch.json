@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "u-switch": "/node-modules/uview-ui/components/u-switch/u-switch"
+  }
+}

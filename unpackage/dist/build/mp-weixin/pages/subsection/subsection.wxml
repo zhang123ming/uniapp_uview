@@ -1,0 +1,1 @@
+<view><u-subsection vue-id="21062fa0-1" list="{{list}}" current="{{current}}" animation="{{true}}" data-event-opts="{{[['^change',[['change']]]]}}" bind:change="__e" bind:__l="__l"></u-subsection></view>

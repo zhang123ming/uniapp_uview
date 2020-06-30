@@ -1,8 +1,8 @@
 {
   "_from": "uview-ui",
-  "_id": "uview-ui@1.3.68",
+  "_id": "uview-ui@1.4.1",
   "_inBundle": false,
-  "_integrity": "sha512-fwszoohFC1HLvIqwwnXPRytT52qGy0viGEzyJtVwemNBAu5z6Ddjwe9ORqsrlQQo7PSvHdyCNHWrSLGzoyKKoQ==",
+  "_integrity": "sha512-4LYAfRzXDykWsQ+NYnCO53YpKtcaBIgASmi4lYPtlu7QRjMrd0TXEAJE0uaUyTTexzkfTGi/Lqt6Q3zy6mW8lg==",
   "_location": "/uview-ui",
   "_phantomChildren": {},
   "_requested": {
@@ -19,10 +19,10 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/uview-ui/-/uview-ui-1.3.68.tgz",
-  "_shasum": "30b7c43d9c0131744c06fff4ef11646944a807b6",
+  "_resolved": "https://registry.npmjs.org/uview-ui/-/uview-ui-1.4.1.tgz",
+  "_shasum": "d0ac7b284a8a6c8aac3213115f3077d1f55b6aef",
   "_spec": "uview-ui",
-  "_where": "C:\\Users\\Administrator\\Desktop\\uViewUI",
+  "_where": "C:\\Users\\Administrator\\Desktop\\uniapp_uview",
   "author": {
     "name": "uView"
   },
@@ -63,5 +63,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.3.68"
+  "version": "1.4.1"
 }

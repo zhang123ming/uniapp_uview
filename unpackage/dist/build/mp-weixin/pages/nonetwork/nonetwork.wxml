@@ -1,0 +1,1 @@
+<view class="box"><view class="_h1">请关闭网络体验效果</view><u-no-network vue-id="ea3912b8-1" bind:__l="__l"></u-no-network></view>

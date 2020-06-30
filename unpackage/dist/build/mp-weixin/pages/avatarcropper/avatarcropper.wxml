@@ -1,0 +1,1 @@
+<view class="box"><view class="_h2">基本使用</view><view class="wrap"><view class="u-avatar-wrap"><image class="u-avatar-demo" src="{{avatar}}" mode="aspectFill"></image></view><u-button bind:tap="__e" vue-id="3f227616-1" data-event-opts="{{[['^tap',[['chooseAvatar']]]]}}" bind:__l="__l" vue-slots="{{['default']}}">进入裁剪页</u-button></view></view>

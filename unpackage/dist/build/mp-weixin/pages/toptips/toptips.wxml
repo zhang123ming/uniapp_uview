@@ -1,0 +1,1 @@
+<view class="toptips"><view class="_h2">基本使用</view><u-button vue-id="b77ad3b8-1" type="success" data-event-opts="{{[['^click',[['getShow']]]]}}" bind:click="__e" bind:__l="__l" vue-slots="{{['default']}}">显示toptips</u-button><u-top-tips class="vue-ref" hidden="{{!(isShow)}}" vue-id="b77ad3b8-2" data-ref="uTips" bind:__l="__l"></u-top-tips></view>

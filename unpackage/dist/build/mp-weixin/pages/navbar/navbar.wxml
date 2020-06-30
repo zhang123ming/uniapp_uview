@@ -1,0 +1,1 @@
+<view class="box"><u-navbar vue-id="411e3e00-1" back-text="返回" title="自定义导航栏" background="{{bgc}}" bind:__l="__l"></u-navbar></view>

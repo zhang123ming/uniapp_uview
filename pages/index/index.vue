@@ -80,6 +80,7 @@ export default {
 				{ name: 'avatarcropper', url: '../avatarcropper/avatarcropper' },
 				{ name: 'loadmore', url: '../loadmore/loadmore' },
 				{ name: 'readmore', url: '../readmore/readmore' },
+				{name:"lazyload",url:"../lazyload/lazyload"},
 				{ name: 'gap', url: '../gap/gap' },
 				{ name: 'avatar', url: '../avatar/avatar' },
 				{ name: 'loading', url: '../loading/loading' }
@@ -104,7 +105,9 @@ export default {
 <style lang="scss">
 .content {
 	width: 100%;
-	height: 100%;
+	height: auto;
+	margin-bottom: 50px;
+		
 }
 
 .list {
@@ -115,6 +118,7 @@ export default {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
+
 	.left {
 		.number {
 			font-size: 16px;
@@ -135,5 +139,6 @@ export default {
 			height: 20px;
 		}
 	}
+	
 }
 </style>

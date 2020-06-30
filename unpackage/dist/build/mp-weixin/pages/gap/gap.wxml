@@ -1,0 +1,1 @@
+<view class="box"><view class="_h2">基本使用</view><u-gap vue-id="84c7735c-1" height="20" bg-color="#bbb" bind:__l="__l"></u-gap></view>

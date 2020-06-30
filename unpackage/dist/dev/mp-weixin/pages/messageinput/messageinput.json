@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "u-tag": "/node-modules/uview-ui/components/u-tag/u-tag",
+    "u-message-input": "/node-modules/uview-ui/components/u-message-input/u-message-input"
+  }
+}

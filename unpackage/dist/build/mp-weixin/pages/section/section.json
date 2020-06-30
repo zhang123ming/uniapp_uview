@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "u-section": "/node-modules/uview-ui/components/u-section/u-section"
+  }
+}

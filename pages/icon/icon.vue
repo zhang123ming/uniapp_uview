@@ -3,8 +3,10 @@
 		<u-grid :col="3">
 			<block v-for="(item, index) in list" :key="index">
 				<!-- <u-grid-item v-if="item.count == 1"><u-icon :name="item.name" :size="46"></u-icon></u-grid-item> -->
-
-				<u-grid-item><u-icon :name="item.name" label-color="#edd342" :label="item.name" :size="40"></u-icon></u-grid-item>
+				
+				<u-grid-item>
+					<u-icon :name="item.name" label-color="#edd342" :size="40"></u-icon>
+					</u-grid-item>
 			</block>
 		</u-grid>
 	</view>

@@ -1,0 +1,1 @@
+<view class="box"><view class="_h2">基本使用</view><u-link vue-id="97f3af00-1" href="http://www.uviewui.com" bind:__l="__l" vue-slots="{{['default']}}">学习uViewui官方网站</u-link><view class="_h2">下划线</view><u-link vue-id="97f3af00-2" href="http://www.uviewui.com" under-line="{{true}}" bind:__l="__l" vue-slots="{{['default']}}">link 带下划线</u-link></view>

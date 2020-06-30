@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "u-table": "/node-modules/uview-ui/components/u-table/u-table",
+    "u-tr": "/node-modules/uview-ui/components/u-tr/u-tr",
+    "u-td": "/node-modules/uview-ui/components/u-td/u-td"
+  }
+}

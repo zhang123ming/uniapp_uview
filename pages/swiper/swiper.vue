@@ -20,15 +20,15 @@ export default {
 	data() {
 		return {
 				list: [{
-									image: '/static/banner.png',
+									image: 'http://img95.699pic.com/photo/50044/6551.jpg_wh300.jpg',
 									title: '蒹葭苍苍，白露为霜。所谓伊人，在水一方'
 								},
 								{
-									image: '/static/banner2.png',
+									image: 'http://img95.699pic.com/photo/50046/7342.jpg_wh300.jpg',
 									title: '溯洄从之，道阻且长。溯游从之，宛在水中央'
 								},
 								{
-									image: '/static/banner3.png',
+									image: 'http://img95.699pic.com/photo/50066/1677.jpg_wh300.jpg',
 									title: '蒹葭萋萋，白露未晞。所谓伊人，在水之湄'
 								}
 							]

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "u-calendar": "/node-modules/uview-ui/components/u-calendar/u-calendar",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button"
+  }
+}

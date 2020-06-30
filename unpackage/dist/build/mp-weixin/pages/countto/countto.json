@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "u-count-to": "/node-modules/uview-ui/components/u-count-to/u-count-to"
+  }
+}

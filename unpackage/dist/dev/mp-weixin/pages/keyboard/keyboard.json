@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "u-keyboard": "/node-modules/uview-ui/components/u-keyboard/u-keyboard",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button"
+  }
+}

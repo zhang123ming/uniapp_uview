@@ -1,0 +1,1 @@
+<view class="box"><block wx:for="{{100}}" wx:for-item="item" wx:for-index="index" wx:key="index"><block><u-sticky vue-id="{{'59880020-1-'+index}}" offset-top="50" bind:__l="__l" vue-slots="{{['default']}}"><block wx:if="{{index==30}}"><view class="sticky">宝剑锋从磨砺出，梅花来自苦寒来</view></block></u-sticky><view class="item">{{item}}</view></block></block></view>

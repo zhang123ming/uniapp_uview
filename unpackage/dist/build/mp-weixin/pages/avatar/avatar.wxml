@@ -1,0 +1,1 @@
+<view class="box"><view class="_h2">基本使用</view><u-avatar vue-id="52bc7e20-1" src="{{src}}" bind:__l="__l"></u-avatar><u-avatar vue-id="52bc7e20-2" text="{{text}}" bind:__l="__l"></u-avatar><view class="_h2">头像类型</view><u-avatar vue-id="52bc7e20-3" src="{{src}}" mode="square" bind:__l="__l"></u-avatar></view>

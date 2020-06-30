@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "u-link": "/node-modules/uview-ui/components/u-link/u-link"
+  }
+}

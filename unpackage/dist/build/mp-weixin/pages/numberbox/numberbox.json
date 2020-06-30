@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "u-number-box": "/node-modules/uview-ui/components/u-number-box/u-number-box"
+  }
+}

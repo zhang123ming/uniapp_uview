@@ -1,0 +1,1 @@
+<view class="badge"><view class="_h2">基本用法</view><u-badge vue-id="5cae57f8-1" size="60" type="success" overflow-count="99" count="100" bind:__l="__l"></u-badge></view>

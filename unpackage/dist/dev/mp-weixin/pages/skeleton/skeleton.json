@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "u-skeleton": "/node-modules/uview-ui/components/u-skeleton/u-skeleton"
+  }
+}
